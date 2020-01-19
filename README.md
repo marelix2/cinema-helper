@@ -1,0 +1,1 @@
+Simple app based on react that should provide complete CRUD for cimena.
