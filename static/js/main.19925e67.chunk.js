@@ -1,2 +1,0 @@
-(this["webpackJsonpcinema-helper"]=this["webpackJsonpcinema-helper"]||[]).push([[0],{16:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),c=n(4),i=n.n(c),o=n(26);var l=function(){return r.a.createElement("div",{className:"App"},r.a.createElement(o.a,{variant:"h1",gutterBottom:!0},"Cinema Handler"))};i.a.render(r.a.createElement(l,null),document.getElementById("root"))},7:function(e,t,n){e.exports=n(16)}},[[7,1,2]]]);
-//# sourceMappingURL=main.19925e67.chunk.js.map
