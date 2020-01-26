@@ -1,14 +1,15 @@
 import React from 'react'
-import Typography from '@material-ui/core/Typography'
+import { MainView } from './view/Main'
+import { ThemeProvider } from '@material-ui/core/styles'
+import { theme } from './styles/theme/theme'
+import './styles/styles/global.scss'
 
 function App() {
   return (
     <div className="App">
-       <Typography
-        variant="h1" 
-        gutterBottom>
-       Cinema Handler
-      </Typography>
+      <ThemeProvider theme={theme}>
+        <MainView />
+      </ThemeProvider>
     </div>
   );
 }
