@@ -1,7 +1,7 @@
+import movies from './../static/movies/movies'
+
 const state = {
-  data: [{
-    hello: 'there'
-  }]
+  movies
 }
 
 
