@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "deea7a2cbcce416e943e682d6d1bd5a2",
+    "revision": "e3ec6370639443bea24503fbf51f8aea",
     "url": "/cinema-helper/index.html"
   },
   {
-    "revision": "508f24805c497375c3b5",
-    "url": "/cinema-helper/static/css/main.77ad6e6c.chunk.css"
+    "revision": "b5acede407e53b07db5e",
+    "url": "/cinema-helper/static/css/main.f5a524e5.chunk.css"
   },
   {
-    "revision": "a8f452d8581e7f653fee",
-    "url": "/cinema-helper/static/js/2.047a76bc.chunk.js"
+    "revision": "9ef176c60fce6ea06bb6",
+    "url": "/cinema-helper/static/js/2.2483bd03.chunk.js"
   },
   {
     "revision": "b51e62edbcf7a9c4f4ad13f506021d3e",
-    "url": "/cinema-helper/static/js/2.047a76bc.chunk.js.LICENSE"
+    "url": "/cinema-helper/static/js/2.2483bd03.chunk.js.LICENSE"
   },
   {
-    "revision": "508f24805c497375c3b5",
-    "url": "/cinema-helper/static/js/main.ce4a3387.chunk.js"
+    "revision": "b5acede407e53b07db5e",
+    "url": "/cinema-helper/static/js/main.3522db36.chunk.js"
   },
   {
     "revision": "77b8962a0fd14249e276",
